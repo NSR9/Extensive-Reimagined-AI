@@ -36,7 +36,7 @@ This class provides methods for visualizing the training and test data. The `plo
 ### `check_cuda` Function
 This function checks if CUDA is available for GPU acceleration.
 
-### Training Loop
+### `Training Loop` Class
 The code includes a training loop implemented in the `TrainLoop` class. The `train_model` method performs the training of the model using the specified optimizer. The `test_model` method evaluates the model on the test data. The `plot_graphs` method plots the accuracy and loss graphs during training.
 
 ### `GetCorrectPredCount` Function
